@@ -1,0 +1,7 @@
+print ("Hello World!")
+print ("Hey Hi How you doin?")
+print ("That was a Lil' Wayne reference")
+print ("Life is about expanding your skill set.")
+print ('Coding is for the creatives.')
+print ("Creativity runs the world.")
+print ("All that matters is what hasn/t been done.")
